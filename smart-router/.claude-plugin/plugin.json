@@ -1,0 +1,10 @@
+{
+  "name": "smart-router",
+  "version": "0.1.0",
+  "description": "Picks the model and effort for each prompt automatically (Haiku/Sonnet/Opus, low to high) and trims output to save tokens",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "XPNCEOS"
+  }
+}

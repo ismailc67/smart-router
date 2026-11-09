@@ -1,0 +1,12 @@
+{
+  "name": "xpn-local",
+  "owner": { "name": "XPNCEOS" },
+  "description": "XPNCEOS Claude Code plugins",
+  "plugins": [
+    {
+      "name": "smart-router",
+      "source": "./smart-router",
+      "description": "Picks the model and effort for each prompt automatically (Haiku/Sonnet/Opus, low to high) and trims output to save tokens"
+    }
+  ]
+}
